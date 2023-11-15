@@ -1,6 +1,6 @@
 ## Overview
 
-This project contains a Convolutional Neural Network (CNN) model for sentiment analysis. The model is designed to classify text data into different sentiment categories. It achieved an accuracy of 62.5% on the test set.
+This project contains a Convolutional Neural Network (CNN) model for sentiment analysis. The model is designed to classify text data into different sentiment categories. It achieved an accuracy of 62.505% on the test set.
 
 ## Model Architecture
 
@@ -41,15 +41,15 @@ The model was trained for 10 epochs using the provided training script (`CNN.ipy
 
 ## Usage
 
-To run the model on your data:
+To run the model:
 
-1. Load the model using the provided state dictionary (`cnn_model_state_dict.pth`).
+1. Load the model using the provided state dictionary ['https://drive.google.com/file/d/1xwvSkzGLUesM22cB21TVxH4Xdw0LEHVM/view?usp=drive_link'].
 2. Prepare your input data in the same format as the training data.
 3. Run the model to get sentiment predictions.
 
 ## Evaluation
 
-The model was evaluated on a test set and achieved a maximum accuracy of 62.5%. The details of the evaluation can be found in the notebook `CNN.ipynb`.
+The model was evaluated on a test set and achieved a maximum accuracy of 62.505%. The details of the evaluation can be found in the notebook `CNN.ipynb`.
 
 ## Contact
 
