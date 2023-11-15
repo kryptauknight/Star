@@ -1,0 +1,9 @@
+snowballstemmer
+scikit-learn
+torch
+pandas
+gensim
+nltk
+keras
+matplotlib
+stanza
