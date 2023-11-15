@@ -15,7 +15,7 @@ The CNN model is built using PyTorch and includes the following layers:
 
 ## Requirements
 
-To run this project, you need the following packages:
+Here are the packages used in the project:
 
 - PyTorch
 - Pandas
