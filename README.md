@@ -4,6 +4,8 @@ This project contains a Convolutional Neural Network (CNN) model for sentiment a
 
 ## Model Architecture
 
+Link to the Model's state Dictionary: ['https://drive.google.com/file/d/1xwvSkzGLUesM22cB21TVxH4Xdw0LEHVM/view?usp=drive_link']
+
 The CNN model is built using PyTorch and includes the following layers:
 
 - Embedding layer
