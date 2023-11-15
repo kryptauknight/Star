@@ -8,7 +8,7 @@ Link to the Model's state Dictionary: ['https://drive.google.com/file/d/1xwvSkzG
 
 The CNN model is built using PyTorch and includes the following layers:
 
-- Embedding layer
+- Embedding layer: - An **Embedding Layer** to convert text data into dense vector representations: 300 dimensional Embeddings ['https://drive.google.com/file/d/1vTBJ0CerCJ_3RQgw7op9MJNC_Fjs7cis/view?usp=drive_link']
 - Convolutional layers
 - Fully connected layers
 - Dropout for regularization
